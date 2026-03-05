@@ -1,0 +1,8 @@
+PyQt6
+PyQt6-Qt6
+opencv-python
+numpy
+pandas
+matplotlib
+fpdf2
+pyinstaller
